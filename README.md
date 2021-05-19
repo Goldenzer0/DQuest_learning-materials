@@ -1,2 +1,2 @@
 # sharing
-python, sql learning material
+Guided project that I have gone thru while learning Python and SQL
