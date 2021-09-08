@@ -1,4 +1,4 @@
-# sharing
+# Learning materials :)
 Here's the Guided projects that I have learnt from the dataquest
 These are the learning materials for data analyst.
 You will learn:
