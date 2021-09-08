@@ -11,3 +11,4 @@ You will learn:
 7. SQL for data science
 8. Miniproject
 
+Here's the classnote link: https://1drv.ms/u/s!AoMjPLIRdn2lixdHUzpz2YT49BTE
