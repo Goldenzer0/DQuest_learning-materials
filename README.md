@@ -9,4 +9,5 @@ You will learn:
 5. Data Cleaning and Analysis
 6. API & webscraping
 7. SQL for data science
+8. Miniproject
 
